@@ -114,3 +114,7 @@ h5 {
     left: 1215px;
     top: 1095px;
 }
+a:hover {
+    text-decoration: underline;
+    color: #789DBC;
+}
